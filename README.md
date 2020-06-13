@@ -11,14 +11,13 @@ Download the code -> Enter your database SQL Server credentials in appsettings.j
 
 #### Entering credentials to your database
 
-Default - by default the app will try to cpnnect to localhost as an sa user with no passwords.
+Default - by default the app will try to connect to localhost as an sa user with no passwords. In case of omitting User Id default value is sa.
 
-          "dbconn": "server=.;database=TextAppDb;Trusted_Connection=True;MultipleActiveResultSets=True;" - in "server=" enter your server name, add field "Password=" for password and "User Id=" for username.
+          "dbconn": "server=.;database=TextAppDb;Trusted_Connection=True;MultipleActiveResultSets=True;" 
     
 Custom - in fields YOURUSERNAME, YOURPASSWORD, YOURSERVERNAME enter your credentials for your user in your server.
     
     "dbconn": "User Id=YOURUSERNAME;Password=YOURPASSWORD;server=YOURSERVERNAME;database=TextAppDb;Trusted_Connection=True;MultipleActiveResultSets=True;"
-jeżeli 
 
 ### Insides -> Application UI
 
