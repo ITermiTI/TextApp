@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Termi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Termi\\.nuget\\packages"
+    ]
+  }
+}

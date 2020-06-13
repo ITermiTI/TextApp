@@ -1,0 +1,9 @@
+C:\Users\Termi\source\repos\TextApp\TextApp.Infrastracture\bin\Release\netstandard2.1\TextApp.Infrastracture.deps.json
+C:\Users\Termi\source\repos\TextApp\TextApp.Infrastracture\bin\Release\netstandard2.1\TextApp.Infrastracture.dll
+C:\Users\Termi\source\repos\TextApp\TextApp.Infrastracture\bin\Release\netstandard2.1\TextApp.Infrastracture.pdb
+C:\Users\Termi\source\repos\TextApp\TextApp.Infrastracture\obj\Release\netstandard2.1\TextApp.Infrastracture.csprojAssemblyReference.cache
+C:\Users\Termi\source\repos\TextApp\TextApp.Infrastracture\obj\Release\netstandard2.1\TextApp.Infrastracture.AssemblyInfoInputs.cache
+C:\Users\Termi\source\repos\TextApp\TextApp.Infrastracture\obj\Release\netstandard2.1\TextApp.Infrastracture.AssemblyInfo.cs
+C:\Users\Termi\source\repos\TextApp\TextApp.Infrastracture\obj\Release\netstandard2.1\TextApp.Infrastracture.csproj.CoreCompileInputs.cache
+C:\Users\Termi\source\repos\TextApp\TextApp.Infrastracture\obj\Release\netstandard2.1\TextApp.Infrastracture.dll
+C:\Users\Termi\source\repos\TextApp\TextApp.Infrastracture\obj\Release\netstandard2.1\TextApp.Infrastracture.pdb

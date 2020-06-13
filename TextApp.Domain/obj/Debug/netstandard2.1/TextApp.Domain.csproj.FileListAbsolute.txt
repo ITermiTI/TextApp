@@ -1,0 +1,12 @@
+C:\Users\Termi\source\repos\TextApp\TextApp.Domain\bin\Debug\netstandard2.1\TextApp.Domain.deps.json
+C:\Users\Termi\source\repos\TextApp\TextApp.Domain\bin\Debug\netstandard2.1\TextApp.Domain.dll
+C:\Users\Termi\source\repos\TextApp\TextApp.Domain\bin\Debug\netstandard2.1\TextApp.Infrastracture.dll
+C:\Users\Termi\source\repos\TextApp\TextApp.Domain\bin\Debug\netstandard2.1\TextApp.Infrastracture.pdb
+C:\Users\Termi\source\repos\TextApp\TextApp.Domain\obj\Debug\netstandard2.1\TextApp.Domain.csprojAssemblyReference.cache
+C:\Users\Termi\source\repos\TextApp\TextApp.Domain\obj\Debug\netstandard2.1\TextApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Termi\source\repos\TextApp\TextApp.Domain\obj\Debug\netstandard2.1\TextApp.Domain.AssemblyInfo.cs
+C:\Users\Termi\source\repos\TextApp\TextApp.Domain\obj\Debug\netstandard2.1\TextApp.Domain.csproj.CopyComplete
+C:\Users\Termi\source\repos\TextApp\TextApp.Domain\bin\Debug\netstandard2.1\TextApp.Domain.pdb
+C:\Users\Termi\source\repos\TextApp\TextApp.Domain\obj\Debug\netstandard2.1\TextApp.Domain.dll
+C:\Users\Termi\source\repos\TextApp\TextApp.Domain\obj\Debug\netstandard2.1\TextApp.Domain.pdb
+C:\Users\Termi\source\repos\TextApp\TextApp.Domain\obj\Debug\netstandard2.1\TextApp.Domain.csproj.CoreCompileInputs.cache

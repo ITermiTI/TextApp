@@ -1,0 +1,5 @@
+C:\Users\Termi\source\repos\TextApp\TextApp.Infrastracture\bin\Debug\netstandard2.0\TextApp.Infrastracture.deps.json
+C:\Users\Termi\source\repos\TextApp\TextApp.Infrastracture\bin\Debug\netstandard2.0\TextApp.Infrastracture.dll
+C:\Users\Termi\source\repos\TextApp\TextApp.Infrastracture\obj\Debug\netstandard2.0\TextApp.Infrastracture.csprojAssemblyReference.cache
+C:\Users\Termi\source\repos\TextApp\TextApp.Infrastracture\obj\Debug\netstandard2.0\TextApp.Infrastracture.AssemblyInfoInputs.cache
+C:\Users\Termi\source\repos\TextApp\TextApp.Infrastracture\obj\Debug\netstandard2.0\TextApp.Infrastracture.AssemblyInfo.cs
