@@ -1,17 +1,26 @@
 # Text App
 
-## This is simple text web application using ASP.NET CORE
+## This is a simple text web application using ASP.NET CORE
 
 ### Description
 Simple authentication and authorization process was implemented. After successful login you will be redirected to your texts
-sorted by date of addition (newest at the top). You can add more texts in another tab. There is also a simple user info in the footer.
-AS an administrator you have one extra tab, where all the texts entered by the users, are.
+sorted by date of addition (newest at the top). You can add more texts in another tab. There is also a simple user info in the footer.As an administrator you have one extra tab, where one can find all the texts entered by the users.
 
 ### Installation
-Run the download code in your Visual Studio 2019 IDE. You have to have SQL Server installed and enter your credentials in appconfig.json file.
-Default value is the main sa user and no password. The database will deploy itself. Enjoy the app!
+Download the code -> Enter your database SQL Server credentials in appsettings.json -> Run the code -> Enjoy the App!
 
-### Insides
+#### Entering credentials to your database
+
+Default - by default the app will try to cpnnect to localhost as an sa user with no passwords.
+
+          "dbconn": "server=.;database=TextAppDb;Trusted_Connection=True;MultipleActiveResultSets=True;" - in "server=" enter your server name, add field "Password=" for password and "User Id=" for username.
+    
+Custom - in fields YOURUSERNAME, YOURPASSWORD, YOURSERVERNAME enter your credentials for your user in your server.
+    
+    "dbconn": "User Id=YOURUSERNAME;Password=YOURPASSWORD;server=YOURSERVERNAME;database=TextAppDb;Trusted_Connection=True;MultipleActiveResultSets=True;"
+jeżeli 
+
+### Insides -> Application UI
 
 #### Welcome screen
 
